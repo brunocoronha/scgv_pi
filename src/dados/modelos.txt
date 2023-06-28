@@ -1,0 +1,17 @@
+1;Logan;Renault;SEDAN;.\src\img\modeloVeiculo\1.jpg;12
+2;Gol;Volkswagen;HATCHBACK;.\src\img\modeloVeiculo\2.jpg;8
+3;Corsa;Ford;SEDAN;.\src\img\modeloVeiculo\3.jpg;11
+4;Cruze;Chevrolet;SEDAN;.\src\img\modeloVeiculo\4.jpg;13
+5;Sandero RS;Renault;HATCHBACK;.\src\img\modeloVeiculo\5.jpg;12
+6;Cruze;Chevrolet;HATCHBACK;.\src\img\modeloVeiculo\6.jpg;13
+7;Fusion;Ford;SEDAN;.\src\img\modeloVeiculo\7.jpg;11
+8;Evoque;Range Rover;SUV;.\src\img\modeloVeiculo\8.jpg;27
+9;208;Peugeot;HATCHBACK;.\src\img\modeloVeiculo\9.jpg;14
+12;Corolla;Toyota;SUV;.\src\img\modeloVeiculo\12.jpg;4
+16;Yaris;Toyota;HATCHBACK;.\src\img\modeloVeiculo\222.jpg;4
+10;C4;Citroen;SEDAN;.\src\img\modeloVeiculo\10.jpg;6
+11;Saveiro;Volkswagen;PICAPE;.\src\img\modeloVeiculo\11.jpg;8
+13;A3;Audi;HATCHBACK;.\src\img\modeloVeiculo\13.jpg;5
+14;J3;Jac;HATCHBACK;.\src\img\modeloVeiculo\14.jpg;25
+15;Ka;Ford;HATCHBACK;.\src\img\modeloVeiculo\15.jpg;11
+17;Fusca;Volkswagen;HATCHBACK;.\src\img\modeloVeiculo\17.jpg;8

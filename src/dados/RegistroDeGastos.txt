@@ -1,0 +1,13 @@
+1;20/06/2023;150.0;Gasolina posto XF;03653370051;Bruno CG;4;Logan;1;Combustível
+2;20/06/2023;2000.0;Seguro anual;11927126096;Gustavo Camargo;5;208;2;Seguro
+3;01/06/2023;250.0;Suspensão;03653370051;Bruno CG;3;Sandero RS;3;Peças e Acessórios
+4;20/06/2023;10.0;Pedágio GYN->ITUM;11927126096;Gustavo Camargo;2;Gol;6;Pedágio
+5;10/05/2023;150.0;Gasolina posto XF;03653370051;Bruno CG;4;Logan;1;Combustível
+6;14/06/2023;2000.0;Seguro anual;11927126096;Gustavo Camargo;5;208;2;Seguro
+7;11/06/2023;250.0;Suspensão;03653370051;Bruno CG;3;Sandero RS;3;Peças e Acessórios
+8;10/06/2023;10.0;Pedágio GYN->ITUM;11927126096;Gustavo Camargo;2;Gol;6;Pedágio
+9;20/06/2023;550.0;IPVA;66151754441;Teste Gerador;6;Evoque;8;Documentação
+10;20/06/2023;150.0;Shopping;66151754441;Teste Gerador;8;Saveiro;5;Estacionamento
+11;07/03/2023;2500.0;ano atual;66151754441;Teste Gerador;8;Saveiro;2;Seguro
+12;07/06/2023;250.0;Lavagem interior e exterior;56365582528;fulano beltrano;3;Sandero RS;7;Lavagem
+13;03/06/2023;8000.0;Pintura;03653370051;Bruno CG;10;Fusca;9;Restauração
