@@ -1,4 +1,0 @@
-11927126096;Gustavo Camargo;gustavo@gmail.com;+55;(62);984848477;49074360245;AB;.\src\img\cnh\11927126096.jpg;.\src\img\fotoProprietarios\11927126096.jpeg
-03653370051;Bruno CG;bruno@gmail.com;+55;(62);985858585;40875530453;B;.\src\img\cnh\03653370051.36;.\src\img\fotoProprietarios\03653370051.jpeg
-66151754441;Teste Gerador;gerador@teste.com;+33;(41);986367099;78539845700;AB;.\src\img\cnh\66151754441.jpg;.\src\img\fotoProprietarios\66151754441.55
-56365582528;fulano beltrano;fulano@beltrano.com;+55;(62);986367099;19968417118;AB;.\src\img\cnh\56365582528.jpg;.\src\img\fotoProprietarios\56365582528.07
